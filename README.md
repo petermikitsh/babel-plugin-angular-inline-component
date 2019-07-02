@@ -6,7 +6,7 @@ Babel plugin to Inline Angular 2+ Component `templateUrl` and `styleUrls`.
 
 ```
 {
-  plugins: ['babel-plugin-angular-template']
+  plugins: ['babel-plugin-angular-inline-component']
 }
 ```
 

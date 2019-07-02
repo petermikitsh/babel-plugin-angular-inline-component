@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-angular-template",
+  "name": "babel-plugin-angular-inline-component",
   "version": "0.0.0",
   "description": "Babel plugin to Inline Angular 2+ Component templateUrl, styleUrls",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petermikitsh/babel-plugin-angular-template.git"
+    "url": "git+https://github.com/petermikitsh/babel-plugin-angular-inline-component.git"
   },
   "keywords": [
     "babel",
@@ -19,9 +19,9 @@
   "author": "Peter Mikitsh <peter.mikitsh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/petermikitsh/babel-plugin-angular-template/issues"
+    "url": "https://github.com/petermikitsh/babel-plugin-angular-inline-component/issues"
   },
-  "homepage": "https://github.com/petermikitsh/babel-plugin-angular-template#readme",
+  "homepage": "https://github.com/petermikitsh/babel-plugin-angular-inline-component#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-decorators": "^7.4.4",
