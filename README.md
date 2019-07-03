@@ -1,6 +1,6 @@
 # babel-plugin-angular-inline-component
 
-Babel plugin to Inline Angular 2+ Component `templateUrl` and `styleUrls`.
+Babel plugin to Inline Angular 2+ Component decorator `templateUrl` and `styleUrls`.
 
 ## Usage
 
