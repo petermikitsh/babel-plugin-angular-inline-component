@@ -5,6 +5,12 @@ Babel plugin to Inline Angular 2+ Component decorator `templateUrl` and `styleUr
 ## Usage
 
 ```
+npm i github:petermikitsh/babel-plugin-angular-inline-component
+```
+
+In `.babelrc`:
+
+```
 {
   plugins: ['babel-plugin-angular-inline-component']
 }
@@ -37,6 +43,10 @@ import { Component } from '@angular/core';
 })
 export class TestComponent {}
 ```
+
+### Limitations
+
+Only `styleUrls` with a `.css` extension are supported.
 
 ### Development
 
